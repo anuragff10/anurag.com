@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav .collapse{
+    width:100%;
+}
+.bg-light{
+    background-color: #5492d0 !important;
+    font-size: 19px;
+    font-family: arial;
+    color: black;
+}
